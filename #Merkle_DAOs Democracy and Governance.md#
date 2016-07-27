@@ -1,0 +1,33 @@
+tile={DAOs, Democracy and Governance}
+author={Ralph Merkle}
+year={2016}
+
+abstract={Democracies are typically seen as governments which call upon the governed to make the major
+decisions of government: who shall lead, what policies to follow, what laws to enact. In all these matters
+democracies call upon ordinary citizens to make complex decisions with eventful consequences.
+We do not call upon ordinary untrained citizens to perform surgery, fly airplanes, design computers, or
+carry out the other myriad tasks needed to keep society functioning, what makes governance different?
+The problem is readily understood: if we give governance to œôòüexpertsœôòý they will make decisions in their
+own best interests, not in the best interests of us all. As we have seen too often in the past, this leads to
+enrichment of a small elite and the enslavement or worse of the vast majority. Can we take advantage
+of the expertise of the best and brightest, while insulating the system from attempts they might make to
+gain control?
+Modern research into œôòüthe wisdom of crowdsœôòý provides new insights into how to combine the expertise
+of all participants without handing over control to œôòüexpertsœôòý. Combined with research on Decentralized
+Autonomous Organizations (DAOs), this allows us to design a new form of democracy which is more
+stable, less prone to erratic behavior, better able to meet the needs of its citizens, and which better uses
+the expertise of all its citizens to make high-quality decisions.
+We call this new form of democracy a DAO Democracy.}
+
+
+Merkle argues that the current democratic systems can not cope with the fast change of reality mainly driven by technology. One problem is that existing instantiations of democracy are based on voting which has the following problems:
+* Voters have little incentive to vote
+* Significant effort involved in being informed
+* Money + media can have a strong impact
+* Candidates can diverge from their promises after election
+* Everyone counts equally, but only few are informed
+
+Merkle proposes an alternative based on a prediction market. Citizens just rank the past year on a scale from 0 to 1. The aggregate is then called DemocratiCollective Welfare (DCW).
+
+Issues and Questions:
+* Seems to work only with large enough scale.
