@@ -29,3 +29,5 @@ Nicely written paper mainly about the effects of costless verification.
 
 
 **To Read**
+
+* [Beyond Hellman's Time-Memory Trade-Offs with Applications to Proofs of Space](https://eprint.iacr.org/2017/893.pdf)
